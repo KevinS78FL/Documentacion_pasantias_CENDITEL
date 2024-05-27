@@ -1,2 +1,3 @@
-# Documentacion_pasantias_CENDITEL
-Documentacion_pasantias_CENDITEL
+# Documentacion generada por Kevin Fernández en las pasantías en CENDITEL
+
+...
